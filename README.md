@@ -5,7 +5,7 @@ A Serverless timer functions which sets the color of an LIFX bulb based on the o
 ## Setup Instructions
 
 Deploy it straight to Azure without cloning or installing anything. Easily your best option.
-<br>
+<br><br>
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 ## Run Locally
