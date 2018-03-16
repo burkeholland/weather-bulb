@@ -47,6 +47,26 @@
             {
               "name": "WEBSITE_CONTENTSHARE",
               "value": "[variables('contentShareName')]"
+            },
+            {
+              "name": "LIFX_TOKEN",
+              "value": "YOUR-LIFX-TOKEN"
+            },
+            {
+              "name": "DS_API",
+              "value": "https://api.darksky.net/forecast"
+            },
+            {
+              "name": "DS_SECRET",
+              "value": "YOUR-DARKSKY-SECRET"
+            },
+            {
+              "name": "LAT",
+              "value": "YOUR-LATITUDE"
+            },
+            {
+              "name": "LNG",
+              "value": "YOUR-LONGITUDE"
             }
           ]
         },
