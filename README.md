@@ -10,7 +10,7 @@ Deploy it straight to Azure without cloning or installing anything. Easily your 
 
 ## Run Locally
 
-Requires the [Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?wt.mc_id=weatherbulb-github-buhollan).
+Requires the [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=m365-0000-buhollan).
 
 Clone the repo. Add in a `local.settings.json` file. In that file you will need to specify the following format/keys...
 
